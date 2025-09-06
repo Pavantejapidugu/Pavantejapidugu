@@ -43,7 +43,5 @@ I specialize in **Java, Spring Boot, React.js, SQL, and REST APIs**, creating ro
 ![Snake animation](https://github.com/Pavantejapidugu/Pavantejapidugu/blob/output/github-contribution-grid-snake.svg)
 
 
----
 
-## ✨ Fun Fact  
-*"Code is like humor. When you have to explain it, it’s bad."* 😄  
+---
